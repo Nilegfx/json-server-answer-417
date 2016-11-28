@@ -1,0 +1,10 @@
+{
+  "name": "json-server-417",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "json-server": "^0.9.1"
+  }
+}
